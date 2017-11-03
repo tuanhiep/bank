@@ -7,6 +7,8 @@ each account. He can deposit or withdraw his money with this Kata bank, each suc
 web application, user can check all of his transactions. 
 
 First, user have to enter his Username and Passord to Login the Kata Bank.
+![Alt text](bank/simulation/Capture 1.PNG?raw=true "Login Kata Bank")
+
 In the folder src/sql you can see the script SQL to create the database for Kata Bank, also the raw data for User, Account, Transaction.
 Here, we use Username : name02 and Password : pass02 to login into Kata Bank.
 

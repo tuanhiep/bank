@@ -1,4 +1,5 @@
-# bank
+# Kata Bank
+
 This is project for Kata Bank 
 
 This web application is created to simulate the basic operation of bank; A classical user can check his accounts and see the history of 

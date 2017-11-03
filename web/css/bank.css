@@ -1,0 +1,146 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 850px;
+    text-align: center;
+    margin: 20px auto;
+    height: 100%;
+}
+
+/* general styles */
+#main { 
+    background: lightcoral;
+    min-height: 100%; 
+}
+
+
+.header {
+    background-color: #c3e3e0;
+    height: 30px;
+    text-align:center;
+}
+
+#header {
+    height: 200px;
+    background: cornflowerblue;
+
+}
+#footer {
+    height: 60px;
+    clear: left;
+    background: indianred;
+    color: #ffec83;  
+}
+
+#logo {
+    height: 155px;
+    width: 155px;
+    float: left;
+    margin-left: 30px;
+    margin-top: -20px;
+    position: relative;
+    z-index: 2;
+}
+
+#logoText {
+    float: left;
+    margin: -135px 0 0;
+    position: relative;
+    z-index: 1;
+    /* font styles apply to text within alt tags */
+    font-family: 'American Typewriter', Courier, monospace;
+    font-size: 50px;
+    color: #333;
+}
+
+
+hr {
+    border: 0;
+    background-color: #333;
+    height: 1px;
+    margin: 0 25px;
+    width: 95%;
+}
+#content {
+
+    width: 850px;
+    float: left;
+    background: #ccc;
+    height: 100%;
+
+}
+#indexWarning{
+    text-align: left;
+    margin-left: 50px;
+    margin-right: 60px;
+}
+#indexForecast{
+    text-align: left;
+    margin-left: 50px;
+    margin-right: 60px;
+}
+#indexTransaction{
+    text-align: left;
+    margin-left: 50px;
+    margin-right: 60px;
+}
+#indexUser{
+    text-align: left;
+    margin-left: 50px;
+    margin-right: 60px;
+}
+#indexAccount{
+    text-align: left;
+    margin-left: 50px;
+    margin-right: 60px;
+
+}
+#indexTransaction{
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+#idButton{
+    text-align: center; 
+    margin-top: 5px;
+}
+#idLogout{
+    text-align: right; 
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+#loginBox {
+    width: 300px;
+    margin: 80px auto;
+    border-radius: 4px;
+}
+
+.myButton {
+    background-color:#44c767;
+    border:1px solid #18ab29;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;	
+    text-decoration:none;
+    text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+    background-color:#5cbf2a;
+}
+.myButton:active {
+    top:1px;
+}
+
+.tblheader {
+    text-align: left;
+    background-color: #914574;
+    border-radius: 3px 3px 0 0;
+    color: #ffec83;
+    font-weight: lighter;
+    padding: 7px 10px;
+}
+.myRow{
+    line-height: 19px;
+    color: green;
+}

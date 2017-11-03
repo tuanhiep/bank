@@ -1,0 +1,21 @@
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<%@taglib prefix="sql" uri="http://java.sun.com/jsp/jstl/sql"%>
+<%@taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
+<%@taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" type="text/css" href="css/bank.css">
+        <title>Kata Bank</title>
+    </head>
+    <body>
+        <div id="main">
+            <div id="header">
+                <a href="https://www.societegenerale.fr/">
+                    <img src="img/logo.jpg" id="logo" alt="Societe General logo">
+                </a>
+                <img  src="img/Louvre.jpg" id="logoText" alt="Louvre Paris">
+            </div>

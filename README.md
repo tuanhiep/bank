@@ -39,8 +39,6 @@ At the bottom, user can see the place to realize his basic operations : Deposit 
 When he realize his operation, he is redirected to a confirmation page or a warning page in which he is informated that the operation is 
 valid or not.
 
-![Alt text](simulation/Capture5.PNG)
-
 If the operation is valid, he can see the forecast balance if he still want to realize this operation. He can always choose to return 
 account board or finally confirm his operation.
 
@@ -69,3 +67,4 @@ Example of Withdraw :
 
 At any moment during his session, the user can always choose to Log out from Kata Bank by click the Button Log out on top right of web page.
 
+Tuan Hiep TRAN

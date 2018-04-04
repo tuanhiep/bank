@@ -2,7 +2,7 @@
 
 This is project for Kata Bank 
 
-This web application is created to simulate the basic operation of bank; A classical user can check his accounts and see the history of 
+This web application is created to simulate the basic operations of bank; A classical user can check his accounts and see the history of 
 each account. He can deposit or withdraw his money with this Kata bank, each sucessful operation is recorded to database and with this
 web application, user can check all of his transactions. 
 
@@ -18,7 +18,7 @@ His personal information is displayed also on User board with name, adresse, ema
 ![Alt text](simulation/Capture2.PNG)
 
 
-User can click on the Account Number to go the the board of this account, there he can see all the transactions on the account.
+User can click on the Account Number to go the the board of this account, there he can see all the transactions linked to the account.
 The information of Account is displayed: Account number, Total Balance and the Overdraft (Autorisation de découvert) of User (here, the
 default is 0 Euro)
 ![Alt text](simulation/Capture3.PNG)
@@ -29,7 +29,7 @@ button 'Printer'.
 ![Alt text](simulation/Capture12.PNG)
 
 
-At the bottom, user can see the place to realize his basic operations : Deposit and Withdraw
+At the bottom, user can see the tool to realize his basic operations : Deposit and Withdraw
 
 
 ![Alt text](simulation/Capture4.PNG)
@@ -39,8 +39,7 @@ At the bottom, user can see the place to realize his basic operations : Deposit 
 When he realize his operation, he is redirected to a confirmation page or a warning page in which he is informated that the operation is 
 valid or not.
 
-If the operation is valid, he can see the forecast balance if he still want to realize this operation. He can always choose to return 
-account board or finally confirm his operation.
+If the operation is valid, he can see the forecast balance in case he still want to realize this operation. He can always choose to return account board or finally confirm his operation.
 
 ![Alt text](simulation/Capture5.PNG)
 
@@ -53,7 +52,7 @@ If the operation is not valid (error typing input, invali input amount, invalid 
 
 ![Alt text](simulation/Capture7.PNG)
 
-User is informed by a warning and he can return to account board.
+User is informed by a warning message and he can return to account board.
 
 ![Alt text](simulation/Capture8.PNG)
 
@@ -65,6 +64,6 @@ Example of Withdraw :
 
 ![Alt text](simulation/Capture11.PNG)
 
-At any moment during his session, the user can always choose to Log out from Kata Bank by click the Button Log out on top right of web page.
+At any moment during his session, the user can always choose to Log out of Kata Bank by clicking the Button Log out on top right of website.
 
 Tuan Hiep TRAN
